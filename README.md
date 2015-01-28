@@ -79,4 +79,8 @@ Hoosegow.new :socket => '/path/to/socket'
 
 ```ruby
 Hoosegow.new :host => '192.168.1.192', :port => 4243
+
 ```
+
+AH:  Angel was here on 01/27/2015
+
