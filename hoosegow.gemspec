@@ -1,6 +1,6 @@
 require 'rake'
 
-Gem::Specification.new do |s|
+Gem::Specification.new do |i|
   s.name        = 'hoosegow'
   s.version     = '1.2.0'
   s.summary     = "A Docker jail for ruby code"
